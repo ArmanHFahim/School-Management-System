@@ -1,0 +1,1 @@
+<?php /**PATH D:\laragon\laragon\www\Ekattor8\Ekattor8\resources\views/external_plugin.blade.php ENDPATH**/ ?>
